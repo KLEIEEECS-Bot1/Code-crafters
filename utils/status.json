@@ -1,0 +1,61 @@
+{
+  "microphone": {
+    "accessible": true,
+    "checked_at": "2025-09-20T10:18:09.491923Z",
+    "device": {
+      "name": "Microsoft Sound Mapper - Input",
+      "index": 0
+    }
+  },
+  "camera": {
+    "connected": true,
+    "checked_at": "2025-09-20T10:18:10.258984Z"
+  },
+  "processes": {
+    "when": "2025-09-20T10:18:09.948866Z",
+    "top": [
+      {
+        "username": "NT AUTHORITY\\SYSTEM",
+        "name": "System Idle Process",
+        "cpu_percent": 398.5,
+        "pid": 0
+      },
+      {
+        "username": "INSPIRON-3520\\aishw",
+        "name": "Code.exe",
+        "cpu_percent": 86.0,
+        "pid": 14296
+      },
+      {
+        "username": null,
+        "name": "SearchIndexer.exe",
+        "cpu_percent": 81.2,
+        "pid": 8728
+      },
+      {
+        "username": "INSPIRON-3520\\aishw",
+        "name": "Code.exe",
+        "cpu_percent": 63.4,
+        "pid": 828
+      },
+      {
+        "username": "INSPIRON-3520\\aishw",
+        "name": "Code.exe",
+        "cpu_percent": 61.6,
+        "pid": 10680
+      },
+      {
+        "username": null,
+        "name": "dwm.exe",
+        "cpu_percent": 47.5,
+        "pid": 11108
+      },
+      {
+        "username": "INSPIRON-3520\\aishw",
+        "name": "python.exe",
+        "cpu_percent": 34.4,
+        "pid": 5796
+      }
+    ]
+  }
+}
